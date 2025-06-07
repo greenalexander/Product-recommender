@@ -1,0 +1,14 @@
+review_id,product_id,customer_name,rating,review_text,review_date
+R001,P101,Fashionista_Ava,5,"Obsessed with this maxi dress! The print is even prettier in person, and it's so comfortable. Perfect for my vacation.",2024-05-28
+R002,P101,CasualComfort,4,"Lovely dress, but it runs a little long for me (I'm 5'2""). Still beautiful, just needs heels or hemming.",2024-05-25
+R003,P102,SilverLover77,5,"This necklace is stunning! The hammered silver catches the light beautifully, and it feels very well made. So unique.",2024-05-29
+R004,P102,GiftGiver,4,"Got this for my sister, she loved it! It's a bit smaller than I expected from the photo, but still a really nice piece.",2024-05-20
+R005,P103,DenimFanatic,5,"Finally, the perfect denim jacket! Not too stiff, great fit for layering. It's become my go-to. Highly recommend.",2024-05-15
+R006,P103,LayerUp,3,"Decent jacket, but the sleeves are a bit short on me. Quality is good though, just a fit issue.",2024-05-12
+R007,P104,StackingQueen,5,"Absolutely adore these rings! They're so delicate and perfect for stacking. Great value for the price.",2024-05-22
+R008,P104,RingNewbie,4,"Cute rings, but they feel a little thin. Still, they look lovely on. Happy with the purchase overall.",2024-05-19
+R009,P105,SummerBreeze,5,"These linen trousers are amazing! So breathable and stylish. Perfect for hot summer days. Buying another pair!",2024-05-18
+R010,P105,ComfyShopper,4,"Love the wide leg and comfort, but they wrinkle easily as expected with linen. Still worth it for the look.",2024-05-16
+R011,P106,CrystalCollector,5,"These amethyst earrings are gorgeous! Each one is truly unique and the raw crystal look is stunning. Great quality.",2024-05-27
+R012,P107,CozyCorner,5,"This cardigan is incredibly soft and cozy. Perfect for throwing on. The fit is relaxed and comfortable, true to size.",2024-05-23
+R013,P108,ElegantEveryday,5,"Beautiful, delicate pearl bracelet. It's subtle enough for daily wear but adds a touch of class. Very happy!",2024-05-24
